@@ -1,0 +1,9 @@
+productID,name,qty,price,subcategory,category,brand
+101,Lays,100,10,chips,food,pepsi
+102,kurkure,250,12,chips,food,pepsi
+201,macbook,80,25000,laptop,electronics,apple
+301,tshirt,300,450,topwear,clothing,pepe
+103,bourbon,200,15,biscuit,food,britania
+302,jean,30,2000,bottonwear,clothing,lee
+202,keyboard,250,600,accessories,electronics,logitech
+104,milkybar,200,15,chocolate,food,cadbury
